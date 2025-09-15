@@ -5,24 +5,31 @@
 
 ---
 
-## 🚀 Як зібрати та запустити
+## Як зібрати та запустити
 
 1. Клонуйте репозиторій:
    ```bash
    git clone https://github.com/<your-username>/Robota_1.git
    cd Robota_1
-  
-2. Відкрийте проєкт у Android Studio
+   ```
+
+2. Відкрийте проєкт у **Android Studio**
+
 3. Переконайтеся, що у вас:
-   JDK=24.0.2
-   Gradle=8.13
-   compileSdk=36
-   targetSdk=36
-   Android=12.0
+   - JDK = 24.0.2  
+   - Gradle = 8.13  
+   - compileSdk = 36  
+   - targetSdk = 36  
+   - Android = 12.0  
+
 4. Запустіть застосунок на емуляторі або підключеному пристрої
 
-Також у цьому проєкті були додані залежності:
-androidx.viewpager2:viewpager2:1.0.0
-androidx.core:core-ktx:1.13.1
-androidx.appcompat:appcompat:1.7.0
-com.google.android.material:material:1.12.0
+---
+
+## Залежності
+
+- `androidx.viewpager2:viewpager2:1.0.0`  
+- `androidx.core:core-ktx:1.13.1`  
+- `androidx.appcompat:appcompat:1.7.0`  
+- `com.google.android.material:material:1.12.0`  
+
