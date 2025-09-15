@@ -9,7 +9,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/<your-username>/Robota_1.git
+   git clone https://github.com/r3alscript/PMP_PZ_1.git
    cd Robota_1
    ```
 
