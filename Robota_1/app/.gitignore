@@ -1,1 +1,15 @@
-/build
+@"
+# Android / IntelliJ
+.idea/
+.gradle/
+**/build/
+local.properties
+*.iml
+
+# Signing
+*.jks
+*.keystore
+
+# Gradle
+gradle.properties
+"@ | Out-File -Encoding utf8 .gitignore
